@@ -1,0 +1,22 @@
+{
+  "name": "my-readme-genarater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusalaindika1/my-readme-genarater.git"
+  },
+  "author": "kusal liyanage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusalaindika1/my-readme-genarater/issues"
+  },
+  "homepage": "https://github.com/kusalaindika1/my-readme-genarater#readme",
+  "dependencies": {
+    "inquirer": "^9.1.2"
+  }
+}
