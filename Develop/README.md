@@ -17,7 +17,7 @@
    The application is designed to run within the command-line. Once the user has installed the program and run the "npm install" command, they will need to run "npm start" to begin the prompts regarding the README content. The user will then need to answer the questions accordingly and at the end they will receive a success message and a README will be generated within the folder.
 
    ## improvement
-   How to genarate a Readme.md
+   How to genarate a Readme.md file using node.js and inquirer package.
 
    
  
